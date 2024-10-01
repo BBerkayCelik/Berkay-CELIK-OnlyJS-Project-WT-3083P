@@ -1,3 +1,7 @@
 a {
-    color: white !important
+    color: white !important;
+}
+
+a:hover{
+    color: rgb(196, 191, 193) !important;
 }
